@@ -1,4 +1,4 @@
-# Srufi Energy Group
+# Sarufi Energy Group
 
 sarufi-energy-group is built with React.
 
